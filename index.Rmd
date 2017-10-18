@@ -18,3 +18,5 @@ I like the [about page](about.html)
 This is an edit to push online. This is in california.
 
 <img src="images/image.png" style="width:75%">
+
+### Check out Bootswatch
