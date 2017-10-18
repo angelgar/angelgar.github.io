@@ -15,4 +15,6 @@ I like the [about page](about.html)
 
 ### This is an image:
 
+This is an edit to push online.
+
 <img src="images/image.png" style="width:75%">
