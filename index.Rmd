@@ -1,22 +1,18 @@
 ---
-title: "Holy cow!"
+title: "Angel Garcia de la Garza"
 ---
+### Biostatistics Ph.D. student, Columbia University Mailman School of Public Health
 
-### I have a webpage!
+<img src="images/angelgarciadelagarza.jpg" style="width:35%">
 
-And I can put all kinds of stuff on it!
+I'm a first year Biostatistics PhD Student at Columbia University Mailman School of Public Health. I completed my B.A. in Mathematics at the [University of Pennsylvania](https://www.upenn.edu/) in 2015. I previously worked as a data analyst at the [Brain and Behavioral Lab](http://www.med.upenn.edu/bbl/) at Penn. I'm interested in brain imaging statistics and the analysis of high dimensional data.
 
-### Let's have a link
+My curriculum vitae is available [here](downloads/CV_AngelGarcia_23Oct2017.pdf).
 
-
-My favorite website is [google](https://www.google.com)
-
-I like the [about page](about.html)
-
-### This is an image:
-
-This is an edit to push online. This is in california.
-
-<img src="images/image.png" style="width:75%">
-
-### Check out Bootswatch
+Contact Information:  
+Angel Garcia de la Garza  
+Department of Biostatistics   
+Columbia Mailman School of Public Health   
+722 West 168th Street, Room 657  
+New York, New York 10032  
+Email: ag3914@cumc.columbia.edu
