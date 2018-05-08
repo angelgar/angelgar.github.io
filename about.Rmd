@@ -4,4 +4,4 @@ title: "About"
 
 I'm a first year Biostatistics PhD Student at Columbia University Mailman School of Public Health. I completed my B.A. in Mathematics at the [University of Pennsylvania](https://www.upenn.edu/) in 2015. I previously worked as a data analyst at the [Brain and Behavioral Lab](http://www.med.upenn.edu/bbl/) at Penn. I'm interested in brain imaging statistics and the analysis of high dimensional data.
 
-My curriculum vitae is available [here](downloads/CV_AngelGarcia_23Oct2017.pdf).
+My curriculum vitae is available [here](downloads/CV_AngelGarcia.pdf).
