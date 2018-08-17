@@ -3,10 +3,10 @@ title: "Angel Garcia de la Garza"
 ---
 ### Biostatistics Ph.D. student, Columbia University Mailman School of Public Health
 
-<img src="images/angelgarciadelagarza.JPG" style="width:50%">
+<img src="images/angelgarciadelagarza.jpg" style="width:50%">
 
 Contact Information:  
-Angel Garcia de la Garza  
+Ángel García de la Garza  
 Department of Biostatistics   
 Columbia Mailman School of Public Health   
 722 West 168th Street, Room 657  
