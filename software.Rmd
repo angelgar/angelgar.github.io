@@ -6,4 +6,6 @@ output:
        in_header: analytics.html
 ---
 
+<link rel="stylesheet" href="academicons.css"/>
+
 In progress

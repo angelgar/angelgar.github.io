@@ -2,11 +2,14 @@ name: "www.angelgarciadelagarza.com"
 output_dir: "."
 navbar:
   title: "Home"
-  right:
+  left:
     - text: "About"
       href: about.html
+  right:
     - icon: fa-envelope fa-lg
       href: mailto:<ag3914@cumc.columbia.edu>
+    - icon: ai-google-scholar-square ai-lg
+      href: https://scholar.google.com/citations?user=-ZQ8jlwAAAAJ&hl=en
     - icon: fa-github fa-lg
       href: http://github.com/angelgar/
     - icon: fa-twitter fa-lg
@@ -14,3 +17,6 @@ navbar:
 output:
   html_document:
     theme: flatly
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
