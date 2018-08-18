@@ -1,5 +1,9 @@
 ---
 title: "Angel Garcia de la Garza"
+output: 
+  html_document:
+    includes:
+       in_header: analytics.html
 ---
 ### Biostatistics Ph.D. student, Columbia University Mailman School of Public Health
 
