@@ -1,5 +1,4 @@
 ---
-title: "Software"
 output: 
   html_document:
     includes:
@@ -8,4 +7,16 @@ output:
 
 <link rel="stylesheet" href="academicons.css"/>
 
-In progress
+<br>
+
+### SOFTWARE
+***
+#### VOXEL
+
+I developed an R package for the mass-univariate voxelwise analysis of imaging NIfTI data with Ted Satterthwaite and Taki Shinohara.
+
+Available on [CRAN](https://cran.r-project.org/web/packages/voxel/)
+
+<p style="text-align:center;">
+<img src="images/figure-voxel.pdf" alt="centered image" style="width:150%"/>
+</p>

@@ -1,24 +1,34 @@
 ---
 title: "Angel Garcia de la Garza"
-output: 
+output:
   html_document:
     includes:
-       in_header: analytics.html
+      in_header: analytics.html
 ---
 
 <link rel="stylesheet" href="academicons.css"/>
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-### Biostatistics Ph.D. student, Columbia University Mailman School of Public Health
+<h3> Biostatistics Ph.D. student, Columbia University Mailman School of Public Health </h3> 
 
-<img src="images/angelgarciadelagarza_3.jpg" style="width:40%">
+<p style="text-align:center;">
+<img src="images/angelgarciadelagarza_3.jpg" alt="centered image" style="width:40%"/>
+</p>
 
-I'm a second year Biostatistics PhD Student at Columbia University Mailman School of Public Health. I completed my B.A. in Mathematics at the [University of Pennsylvania](https://www.upenn.edu/) in 2015. I previously worked as a data analyst at the [Brain and Behavioral Lab](http://www.med.upenn.edu/bbl/) at Penn. I'm interested in brain imaging statistics and the analysis of high dimensional data.
+<p>
 
-Contact Information:  
+
+I'm a second year Biostatistics PhD Student at Columbia University Mailman School of Public Health. I completed my B.A. in Mathematics at the [University of Pennsylvania](https://www.upenn.edu/) in 2015. I previously worked as a data analyst at the [Brain and Behavioral Lab](http://www.med.upenn.edu/bbl/). I'm interested in brain imaging statistics and the analysis of high dimensional data.
+
+</p>
+
+
+<h3 style="font-size:20px"> Contact Information:  </h3>
+<p>
 Ángel García de la Garza  
-Department of Biostatistics   
+[Department of Biostatistics](https://www.mailman.columbia.edu/become-student/departments/biostatistics)
 Columbia Mailman School of Public Health   
 722 West 168th Street, Room 657  
 New York, New York 10032  
 Email: ag3914@cumc.columbia.edu
+</p>
