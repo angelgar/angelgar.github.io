@@ -12,7 +12,7 @@ output:
 <h3> Biostatistics Ph.D. student, Columbia University Mailman School of Public Health </h3> 
 
 <p style="text-align:center;">
-<img src="images/angelgarciadelagarza_3.jpg" alt="centered image" style="width:40%"/>
+<img src="images/angelgarciadelagarza_4.png" alt="centered image" style="width:40%"/>
 </p>
 
 <p>
