@@ -11,19 +11,25 @@ output:
 
 ### PUBLICATIONS
 ***
-* __Garcia de la Garza, A.__, Vandekar, S.N., Roalf, D.R., Ruparel, K., Gur, R.E., Gur, R.C., Satterthwaite, T.D., Shinohara, R.S. Voxel: Software for Voxelwise Analysis of Brain Images Using Linear, Nonlinear and Mixed-Effects Models. (Manuscript in preparation for Neuroinformatics)
 
-* Xia, C.H., Ma, Z., Ciric, R., Gu, S., Betzel, F.R.,  Kaczkurkin A.N., Calkins, M.E., Cook, P.A., __Garcia de la Garza, A.__, Vandekar, S.N., Moore, T.M., Roalf, D.R., Ruparel, K., Wolf, D.H., Davatzikos, C., Gur, R.C., Gur, R.E., Shinohara, R.T., Bassett, D.S., Satterthwaite, T.D. Linked dimensions of psychopathology and connectivity in functional brain networks. (Submitted to Nature Neuroscience).
+* __Garcia de La Garza, A.__, Blanco, C., Olfson, M., & Wall, M. (2020). Identification of Suicide Attempt Risk Factors in a National US Survey Using Machine Learning. JAMA Psychiatry (In Press)
 
-* Rosen A.°, Roalf DR.°, __Garcia de la Garza A__, Elliott MA, Blake J, Villa P, Seelaus K, Ruparel K, Quarmley M, Davatzikos C, Schmitt JE, Shinohara RT, Gur RE, , Craddock C, Gur RC, Satterthwate TD.  Data-driven measures of structural image quality. (Submitted to Neuroimage) 
+* Roalf, D. R., __Garcia de la Garza, A.__, Rosen, A., Calkins, M. E., Moore, T. M., Quarmley, M., Ruparel, K., Xia, C. H., Rupert, P. E., & Satterthwaite, T. D. (2020). Alterations in white matter microstructure in individuals at persistent risk for psychosis. Molecular Psychiatry, 25(10), 2441–2454.
 
-* Pehlivanova M, Wolf DH, __Garcia de La Garza A.__, Ciric R, Rosen A, Kaczkurkin A, Gur RC, Gur RE, Kable J, Satterthwaite TD.   Cortical thinning is associated with impulsive choice in adolescence. (submitted to Journal of Neuroscience) 
+* Skritskaya, N. A., Mauro, C., __Garcia de la Garza, A.__, Meichsner, F., Lebowitz, B., Reynolds, C. F., Simon, N. M., Zisook, S., & Shear, M. K. (2020). Changes in typical beliefs in response to complicated grief treatment. Depression and Anxiety, 37(1), 81–89.
 
-* Roalf, D.R., __Garcia de la Garza, A.__, Calkins, M.E., Moore, T.M., Quarmley, M., Ruparel, K., Rupert, P., Elliott, M.A., Satterthwaite, T.D., Gur, R.C., Gur, R.E. Microstructural White Matter Abnormalities in Youth with Psychosis Spectrum Symptoms: A longitudinal perspective. (Manuscript in preparation for JAMA Psychiatry)
+* Szuhany, K. L., Young, A., Mauro, C., __García de la Garza, A.__, Spandorfer, J., Lubin, R., Skritskaya, N. A., Hoeppner, S. S., Li, M., & Pace‐Schott, E. (2020). Impact of sleep on complicated grief severity and outcomes. Depression and Anxiety, 37(1), 73–80.
 
-* Kaczkurkin, A.N., Moore, T.M., Calkins, M.E., Ruparel, K., Rosen, A., Ciric R., __Garcia de la Garza, A.__, Shinohara, R.T., Vandekar, S.N., Pine, D.S., Leibenluft, E., Scott, C., Foa, E.B., Elliot, A.M., Gennatas, E.D., Roalf, D.R., Wolf, D.H., Detre, J.A., Gur, R.E., Gur, R.C., Satterthwaite, T.D. Common and Dissociable Regional Cerebral Blood Flow Differences Associate with Dimensions of Psychopathology Across Categorical Diagnoses. (Submitted to Molecular Psychiatry)
+* Nassar, R., Kaczkurkin, A. N., Xia, C. H., Sotiras, A., Pehlivanova, M., Moore, T. M., __Garcia de La Garza, A.__, Roalf, D. R., Rosen, A. F., & Lorch, S. A. (2019). Gestational age is dimensionally associated with structural brain network abnormalities across development. Cerebral Cortex, 29(5), 2102–2114.
 
-* Nassar, R., __Garcia de la Garza, A.__, Moore, T.M., Ruparel, K., Lorch, S., Gur, R.E., Gur, R.C., Satterthwaite, T.D., Imaging Patterns in Late Preterm Youth Mediate Cognitive Development. (Submitted to Pediatrics)
+* Xia, C. H., Ma, Z., Ciric, R., Gu, S., Betzel, R. F., Kaczkurkin, A. N., Calkins, M. E., Cook, P. A., __Garcia de la Garza, A.__, & Vandekar, S. N. (2018). Linked dimensions of psychopathology and connectivity in functional brain networks. Nature Communications, 9(1), 1–14.
+
+* Kaczkurkin, A. N., Moore, T. M., Calkins, M. E., Ciric, R., Detre, J. A., Elliott, M. A., Foa, E. B., __Garcia de la Garza, A.__, Roalf, D. R., & Rosen, A. (2018). Common and dissociable regional cerebral blood flow differences associate with dimensions of psychopathology across categorical diagnoses. Molecular Psychiatry, 23(10), 1981–1989.
+
+* Rosen, A. F. G., Roalf, D. R., Ruparel, K., Blake, J., Seelaus, K., Villa, L. P., Ciric, R., Cook, P. A., Davatzikos, C., Elliott, M. A., __Garcia de La Garza, A.__, Gennatas, E. D., Quarmley, M., Schmitt, J. E., Shinohara, R. T., Tisdall, M. D., Craddock, R. C., Gur, R. E., Gur, R. C., & Satterthwaite, T. D. (2018). Quantitative assessment of structural image quality. NeuroImage, 169, 407–418.
+
+* Pehlivanova, M., Wolf, D. H., Sotiras, A., Kaczkurkin, A. N., Moore, T. M., Ciric, R., Cook, P. A., __Garcia de La Garza, A.__, Rosen, A. F., & Ruparel, K. (2018). Diminished cortical thickness is associated with impulsive choice in adolescence. Journal of Neuroscience, 38(10), 2471–2481.
+
 
 <br>
 
