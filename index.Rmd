@@ -9,7 +9,7 @@ output:
 <link rel="stylesheet" href="academicons.css"/>
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-<h3> Biostatistics Ph.D. student, Columbia University Mailman School of Public Health </h3> 
+<h3> Biostatistics Ph.D. Candidate, Columbia University Mailman School of Public Health </h3> 
 
 <p style="text-align:center;">
 <img src="images/angelgarciadelagarza_4.png" alt="centered image" style="width:40%"/>
