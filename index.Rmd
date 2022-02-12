@@ -18,7 +18,7 @@ output:
 <p>
 
 
-I'm a fourth-year Biostatistics PhD Student at Columbia University Mailman School of Public Health. My current research interests include functional data analysis and mental health statistics. I completed my B.A. in Mathematics at the [University of Pennsylvania](https://www.upenn.edu/) in 2015 and previously worked as a data analyst at the [Brain and Behavioral Lab](http://www.med.upenn.edu/bbl/). This year, I'm the lead organizer of the [Columbia Biostatistics Computing Club](http://cu-biostats-computing-club.org)
+I'm a fifth-year Biostatistics PhD Candidate at Columbia University Mailman School of Public Health. My current research interests include functional data analysis and mental health statistics. I completed my B.A. in Mathematics at the [University of Pennsylvania](https://www.upenn.edu/) in 2015 and previously worked as a data analyst at the [Brain and Behavioral Lab](http://www.med.upenn.edu/bbl/). This year, I'm the lead organizer of the [Columbia Biostatistics Computing Club](http://cu-biostats-computing-club.org)
 
 </p>
 

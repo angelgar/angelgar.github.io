@@ -10,9 +10,15 @@ output:
 <br>
 
 ### PUBLICATIONS
+
+This is a link to my google scholar: 
+
+https://scholar.google.com/citations?user=-ZQ8jlwAAAAJ&hl=en
+
 ***
 
-* __Garcia de La Garza, A.__, Blanco, C., Olfson, M., & Wall, M. (2020). Identification of Suicide Attempt Risk Factors in a National US Survey Using Machine Learning. JAMA Psychiatry (In Press)
+
+* __Garcia de La Garza, A.__, Blanco, C., Olfson, M., & Wall, M. (2021). Identification of Suicide Attempt Risk Factors in a National US Survey Using Machine Learning. JAMA Psychiatry 
 
 * Roalf, D. R., __Garcia de la Garza, A.__, Rosen, A., Calkins, M. E., Moore, T. M., Quarmley, M., Ruparel, K., Xia, C. H., Rupert, P. E., & Satterthwaite, T. D. (2020). Alterations in white matter microstructure in individuals at persistent risk for psychosis. Molecular Psychiatry, 25(10), 2441–2454.
 
