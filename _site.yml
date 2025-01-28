@@ -10,13 +10,12 @@ navbar:
 
   right:
     - icon: fa-envelope fa-lg
-      href: mailto:<ag3914@cumc.columbia.edu>
+      href: mailto:<angel.garciadelagarza@einsteinmed.edu>
     - icon: ai-google-scholar-square ai-lg
       href: https://scholar.google.com/citations?user=-ZQ8jlwAAAAJ&hl=en
     - icon: fa-github fa-lg
       href: http://github.com/angelgar/
-    - icon: fa-twitter fa-lg
-      href: http://www.twitter.com/angelgar
+
 output:
   html_document:
     theme: paper

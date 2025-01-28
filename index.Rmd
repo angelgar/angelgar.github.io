@@ -13,7 +13,7 @@ output:
 
 
 <p style="text-align:center;">
-<img src="images/angelgarciadelagarza5.png" alt="centered image" style="width:40%"/>
+
 </p>
 
 <p>

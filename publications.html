@@ -13,7 +13,7 @@
 
 <title>publications.knit</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
@@ -32,8 +32,8 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet" />
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124182553-1"></script>
 <script>
@@ -68,6 +68,7 @@ if (window.hljs) {
 
 
 
+
 <link rel="stylesheet" href="styles.css" type="text/css" />
 
 
@@ -92,6 +93,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -149,11 +153,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -182,8 +190,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -191,16 +199,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -244,7 +245,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -262,7 +263,7 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="mailto:&lt;ag3914@cumc.columbia.edu&gt;">
+  <a href="mailto:&lt;angel.garciadelagarza@einsteinmed.edu&gt;">
     <span class="fa fa-envelope fa-lg"></span>
      
   </a>
@@ -276,12 +277,6 @@ $(document).ready(function () {
 <li>
   <a href="http://github.com/angelgar/">
     <span class="fa fa-github fa-lg"></span>
-     
-  </a>
-</li>
-<li>
-  <a href="http://www.twitter.com/angelgar">
-    <span class="fa fa-twitter fa-lg"></span>
      
   </a>
 </li>
@@ -303,18 +298,57 @@ $(document).ready(function () {
 <div id="publications" class="section level3">
 <h3>PUBLICATIONS</h3>
 <p>This is a link to my google scholar:</p>
-<p><a href="https://scholar.google.com/citations?user=-ZQ8jlwAAAAJ&amp;hl=en" class="uri">https://scholar.google.com/citations?user=-ZQ8jlwAAAAJ&amp;hl=en</a></p>
+<p><a
+href="https://scholar.google.com/citations?user=-ZQ8jlwAAAAJ&amp;hl=en"
+class="uri">https://scholar.google.com/citations?user=-ZQ8jlwAAAAJ&amp;hl=en</a></p>
 <hr />
 <ul>
-<li><p><strong>Garcia de La Garza, A.</strong>, Blanco, C., Olfson, M., &amp; Wall, M. (2021). Identification of Suicide Attempt Risk Factors in a National US Survey Using Machine Learning. JAMA Psychiatry</p></li>
-<li><p>Roalf, D. R., <strong>Garcia de la Garza, A.</strong>, Rosen, A., Calkins, M. E., Moore, T. M., Quarmley, M., Ruparel, K., Xia, C. H., Rupert, P. E., &amp; Satterthwaite, T. D. (2020). Alterations in white matter microstructure in individuals at persistent risk for psychosis. Molecular Psychiatry, 25(10), 2441–2454.</p></li>
-<li><p>Skritskaya, N. A., Mauro, C., <strong>Garcia de la Garza, A.</strong>, Meichsner, F., Lebowitz, B., Reynolds, C. F., Simon, N. M., Zisook, S., &amp; Shear, M. K. (2020). Changes in typical beliefs in response to complicated grief treatment. Depression and Anxiety, 37(1), 81–89.</p></li>
-<li><p>Szuhany, K. L., Young, A., Mauro, C., <strong>García de la Garza, A.</strong>, Spandorfer, J., Lubin, R., Skritskaya, N. A., Hoeppner, S. S., Li, M., &amp; Pace‐Schott, E. (2020). Impact of sleep on complicated grief severity and outcomes. Depression and Anxiety, 37(1), 73–80.</p></li>
-<li><p>Nassar, R., Kaczkurkin, A. N., Xia, C. H., Sotiras, A., Pehlivanova, M., Moore, T. M., <strong>Garcia de La Garza, A.</strong>, Roalf, D. R., Rosen, A. F., &amp; Lorch, S. A. (2019). Gestational age is dimensionally associated with structural brain network abnormalities across development. Cerebral Cortex, 29(5), 2102–2114.</p></li>
-<li><p>Xia, C. H., Ma, Z., Ciric, R., Gu, S., Betzel, R. F., Kaczkurkin, A. N., Calkins, M. E., Cook, P. A., <strong>Garcia de la Garza, A.</strong>, &amp; Vandekar, S. N. (2018). Linked dimensions of psychopathology and connectivity in functional brain networks. Nature Communications, 9(1), 1–14.</p></li>
-<li><p>Kaczkurkin, A. N., Moore, T. M., Calkins, M. E., Ciric, R., Detre, J. A., Elliott, M. A., Foa, E. B., <strong>Garcia de la Garza, A.</strong>, Roalf, D. R., &amp; Rosen, A. (2018). Common and dissociable regional cerebral blood flow differences associate with dimensions of psychopathology across categorical diagnoses. Molecular Psychiatry, 23(10), 1981–1989.</p></li>
-<li><p>Rosen, A. F. G., Roalf, D. R., Ruparel, K., Blake, J., Seelaus, K., Villa, L. P., Ciric, R., Cook, P. A., Davatzikos, C., Elliott, M. A., <strong>Garcia de La Garza, A.</strong>, Gennatas, E. D., Quarmley, M., Schmitt, J. E., Shinohara, R. T., Tisdall, M. D., Craddock, R. C., Gur, R. E., Gur, R. C., &amp; Satterthwaite, T. D. (2018). Quantitative assessment of structural image quality. NeuroImage, 169, 407–418.</p></li>
-<li><p>Pehlivanova, M., Wolf, D. H., Sotiras, A., Kaczkurkin, A. N., Moore, T. M., Ciric, R., Cook, P. A., <strong>Garcia de La Garza, A.</strong>, Rosen, A. F., &amp; Ruparel, K. (2018). Diminished cortical thickness is associated with impulsive choice in adolescence. Journal of Neuroscience, 38(10), 2471–2481.</p></li>
+<li><p><strong>Garcia de La Garza, A.</strong>, Blanco, C., Olfson, M.,
+&amp; Wall, M. (2021). Identification of Suicide Attempt Risk Factors in
+a National US Survey Using Machine Learning. JAMA Psychiatry</p></li>
+<li><p>Roalf, D. R., <strong>Garcia de la Garza, A.</strong>, Rosen, A.,
+Calkins, M. E., Moore, T. M., Quarmley, M., Ruparel, K., Xia, C. H.,
+Rupert, P. E., &amp; Satterthwaite, T. D. (2020). Alterations in white
+matter microstructure in individuals at persistent risk for psychosis.
+Molecular Psychiatry, 25(10), 2441–2454.</p></li>
+<li><p>Skritskaya, N. A., Mauro, C., <strong>Garcia de la Garza,
+A.</strong>, Meichsner, F., Lebowitz, B., Reynolds, C. F., Simon, N. M.,
+Zisook, S., &amp; Shear, M. K. (2020). Changes in typical beliefs in
+response to complicated grief treatment. Depression and Anxiety, 37(1),
+81–89.</p></li>
+<li><p>Szuhany, K. L., Young, A., Mauro, C., <strong>García de la Garza,
+A.</strong>, Spandorfer, J., Lubin, R., Skritskaya, N. A., Hoeppner, S.
+S., Li, M., &amp; Pace‐Schott, E. (2020). Impact of sleep on complicated
+grief severity and outcomes. Depression and Anxiety, 37(1),
+73–80.</p></li>
+<li><p>Nassar, R., Kaczkurkin, A. N., Xia, C. H., Sotiras, A.,
+Pehlivanova, M., Moore, T. M., <strong>Garcia de La Garza, A.</strong>,
+Roalf, D. R., Rosen, A. F., &amp; Lorch, S. A. (2019). Gestational age
+is dimensionally associated with structural brain network abnormalities
+across development. Cerebral Cortex, 29(5), 2102–2114.</p></li>
+<li><p>Xia, C. H., Ma, Z., Ciric, R., Gu, S., Betzel, R. F., Kaczkurkin,
+A. N., Calkins, M. E., Cook, P. A., <strong>Garcia de la Garza,
+A.</strong>, &amp; Vandekar, S. N. (2018). Linked dimensions of
+psychopathology and connectivity in functional brain networks. Nature
+Communications, 9(1), 1–14.</p></li>
+<li><p>Kaczkurkin, A. N., Moore, T. M., Calkins, M. E., Ciric, R.,
+Detre, J. A., Elliott, M. A., Foa, E. B., <strong>Garcia de la Garza,
+A.</strong>, Roalf, D. R., &amp; Rosen, A. (2018). Common and
+dissociable regional cerebral blood flow differences associate with
+dimensions of psychopathology across categorical diagnoses. Molecular
+Psychiatry, 23(10), 1981–1989.</p></li>
+<li><p>Rosen, A. F. G., Roalf, D. R., Ruparel, K., Blake, J., Seelaus,
+K., Villa, L. P., Ciric, R., Cook, P. A., Davatzikos, C., Elliott, M.
+A., <strong>Garcia de La Garza, A.</strong>, Gennatas, E. D., Quarmley,
+M., Schmitt, J. E., Shinohara, R. T., Tisdall, M. D., Craddock, R. C.,
+Gur, R. E., Gur, R. C., &amp; Satterthwaite, T. D. (2018). Quantitative
+assessment of structural image quality. NeuroImage, 169,
+407–418.</p></li>
+<li><p>Pehlivanova, M., Wolf, D. H., Sotiras, A., Kaczkurkin, A. N.,
+Moore, T. M., Ciric, R., Cook, P. A., <strong>Garcia de La Garza,
+A.</strong>, Rosen, A. F., &amp; Ruparel, K. (2018). Diminished cortical
+thickness is associated with impulsive choice in adolescence. Journal of
+Neuroscience, 38(10), 2471–2481.</p></li>
 </ul>
 <p><br></p>
 </div>
