@@ -1,5 +1,5 @@
 ---
-output: 
+output:
   html_document:
     includes:
        in_header: analytics.html
@@ -11,31 +11,61 @@ output:
 
 ### PUBLICATIONS
 
-This is a link to my google scholar: 
-
-https://scholar.google.com/citations?user=-ZQ8jlwAAAAJ&hl=en
+For a complete and up-to-date list, see my [Google Scholar profile](https://scholar.google.com/citations?user=-ZQ8jlwAAAAJ&hl=en).
 
 ***
 
+#### 2026
 
-* __Garcia de La Garza, A.__, Blanco, C., Olfson, M., & Wall, M. (2021). Identification of Suicide Attempt Risk Factors in a National US Survey Using Machine Learning. JAMA Psychiatry 
+* __Garcia de la Garza, A.__, Wang, C., Derby, C. A., Gao, Q., Zetterberg, H., Engeland, C. G., Lipton, R. B., & Katz, M. J. (2026). Generalizability of Blood-Based Biomarkers of Alzheimer's Disease and Related Dementias (ADRD) in a Multicultural Cohort: The Effect of Adjustment for Kidney Function. *Journal of Alzheimer's Disease*.
 
-* Roalf, D. R., __Garcia de la Garza, A.__, Rosen, A., Calkins, M. E., Moore, T. M., Quarmley, M., Ruparel, K., Xia, C. H., Rupert, P. E., & Satterthwaite, T. D. (2020). Alterations in white matter microstructure in individuals at persistent risk for psychosis. Molecular Psychiatry, 25(10), 2441–2454.
+#### 2025
 
-* Skritskaya, N. A., Mauro, C., __Garcia de la Garza, A.__, Meichsner, F., Lebowitz, B., Reynolds, C. F., Simon, N. M., Zisook, S., & Shear, M. K. (2020). Changes in typical beliefs in response to complicated grief treatment. Depression and Anxiety, 37(1), 81–89.
+* __Garcia de la Garza, A.__, Nester, C., Wang, C., Mogle, J., Roque, N., Katz, M., Derby, C. A., Lipton, R. B., & Rabin, L. (2025). Enhanced associations between subjective cognitive concerns and blood-based AD biomarkers using a novel EMA approach. *Alzheimer's Research and Therapy*.
 
-* Szuhany, K. L., Young, A., Mauro, C., __García de la Garza, A.__, Spandorfer, J., Lubin, R., Skritskaya, N. A., Hoeppner, S. S., Li, M., & Pace‐Schott, E. (2020). Impact of sleep on complicated grief severity and outcomes. Depression and Anxiety, 37(1), 73–80.
+* Nester, C. O., __Garcia de la Garza, A.__, Mogle, J. A., Wang, C., Katz, M. J., Ayers, E., Lipton, R. B., Verghese, J., & Rabin, L. A. (2025). Toward Remote Evaluation of Motoric Cognitive Risk Syndrome (MCR): A Pilot Study of Daily Diary Smartphone Assessment of Subjective Cognitive Concerns in MCR. *Health Science Reports*.
 
-* Nassar, R., Kaczkurkin, A. N., Xia, C. H., Sotiras, A., Pehlivanova, M., Moore, T. M., __Garcia de La Garza, A.__, Roalf, D. R., Rosen, A. F., & Lorch, S. A. (2019). Gestational age is dimensionally associated with structural brain network abnormalities across development. Cerebral Cortex, 29(5), 2102–2114.
+#### 2022
 
-* Xia, C. H., Ma, Z., Ciric, R., Gu, S., Betzel, R. F., Kaczkurkin, A. N., Calkins, M. E., Cook, P. A., __Garcia de la Garza, A.__, & Vandekar, S. N. (2018). Linked dimensions of psychopathology and connectivity in functional brain networks. Nature Communications, 9(1), 1–14.
+* Goldsmith, J., Kitago, T., __Garcia de la Garza, A.__, Kundert, R., Luft, A., Stinear, C. M., Byblow, W. D., Kwakkel, G., & Krakauer, J. W. (2022). The proportional recovery rule redux: Arguments for its biological and predictive relevance. *eLife*.
 
-* Kaczkurkin, A. N., Moore, T. M., Calkins, M. E., Ciric, R., Detre, J. A., Elliott, M. A., Foa, E. B., __Garcia de la Garza, A.__, Roalf, D. R., & Rosen, A. (2018). Common and dissociable regional cerebral blood flow differences associate with dimensions of psychopathology across categorical diagnoses. Molecular Psychiatry, 23(10), 1981–1989.
+#### 2021
 
-* Rosen, A. F. G., Roalf, D. R., Ruparel, K., Blake, J., Seelaus, K., Villa, L. P., Ciric, R., Cook, P. A., Davatzikos, C., Elliott, M. A., __Garcia de La Garza, A.__, Gennatas, E. D., Quarmley, M., Schmitt, J. E., Shinohara, R. T., Tisdall, M. D., Craddock, R. C., Gur, R. E., Gur, R. C., & Satterthwaite, T. D. (2018). Quantitative assessment of structural image quality. NeuroImage, 169, 407–418.
+* __Garcia de la Garza, A.__, Blanco, C., Olfson, M., & Wall, M. M. (2021). Identification of suicide attempt risk factors in a national US survey using machine learning. *JAMA Psychiatry*, 78(4), 398–406. [Covered by Medscape, MDedge, and Healio.]
 
-* Pehlivanova, M., Wolf, D. H., Sotiras, A., Kaczkurkin, A. N., Moore, T. M., Ciric, R., Cook, P. A., __Garcia de La Garza, A.__, Rosen, A. F., & Ruparel, K. (2018). Diminished cortical thickness is associated with impulsive choice in adolescence. Journal of Neuroscience, 38(10), 2471–2481.
+#### 2020
 
+* Roalf, D. R., __Garcia de la Garza, A.__, Rosen, A., Calkins, M. E., Moore, T. M., Quarmley, M., Ruparel, K., Xia, C. H., Rupert, P. E., & Satterthwaite, T. D. (2020). Alterations in white matter microstructure in individuals at persistent risk for psychosis. *Molecular Psychiatry*, 25(10), 2441–2454.
+
+* Skritskaya, N. A., Mauro, C., __Garcia de la Garza, A.__, Meichsner, F., Lebowitz, B., Reynolds, C. F., Simon, N. M., Zisook, S., & Shear, M. K. (2020). Changes in typical beliefs in response to complicated grief treatment. *Depression and Anxiety*, 37(1), 81–89.
+
+* Szuhany, K. L., Young, A., Mauro, C., __García de la Garza, A.__, Spandorfer, J., Lubin, R., Skritskaya, N. A., Hoeppner, S. S., Li, M., & Pace-Schott, E. (2020). Impact of sleep on complicated grief severity and outcomes. *Depression and Anxiety*, 37(1), 73–80.
+
+#### 2019
+
+* Nassar, R., Kaczkurkin, A. N., Xia, C. H., Sotiras, A., Pehlivanova, M., Moore, T. M., __Garcia de La Garza, A.__, Roalf, D. R., Rosen, A. F., & Lorch, S. A. (2019). Gestational age is dimensionally associated with structural brain network abnormalities across development. *Cerebral Cortex*, 29(5), 2102–2114.
+
+#### 2018
+
+* Xia, C. H., Ma, Z., Ciric, R., Gu, S., Betzel, R. F., Kaczkurkin, A. N., Calkins, M. E., Cook, P. A., __Garcia de la Garza, A.__, & Vandekar, S. N. (2018). Linked dimensions of psychopathology and connectivity in functional brain networks. *Nature Communications*, 9(1), 1–14.
+
+* Kaczkurkin, A. N., Moore, T. M., Calkins, M. E., Ciric, R., Detre, J. A., Elliott, M. A., Foa, E. B., __Garcia de la Garza, A.__, Roalf, D. R., & Rosen, A. (2018). Common and dissociable regional cerebral blood flow differences associate with dimensions of psychopathology across categorical diagnoses. *Molecular Psychiatry*, 23(10), 1981–1989.
+
+* Pehlivanova, M., Wolf, D. H., Sotiras, A., Kaczkurkin, A. N., Moore, T. M., Ciric, R., Cook, P. A., __Garcia de La Garza, A.__, Rosen, A. F., & Ruparel, K. (2018). Diminished cortical thickness is associated with impulsive choice in adolescence. *Journal of Neuroscience*, 38(10), 2471–2481.
+
+* Rosen, A. F. G., Roalf, D. R., Ruparel, K., Blake, J., Seelaus, K., Villa, L. P., Ciric, R., Cook, P. A., Davatzikos, C., Elliott, M. A., __Garcia de La Garza, A.__, Gennatas, E. D., Quarmley, M., Schmitt, J. E., Shinohara, R. T., Tisdall, M. D., Craddock, R. C., Gur, R. E., Gur, R. C., & Satterthwaite, T. D. (2018). Quantitative assessment of structural image quality. *NeuroImage*, 169, 407–418.
+
+#### 2016
+
+* __Garcia de la Garza, A.__, Vandekar, S., Roalf, D., Ruparel, K., Gur, R., Gur, R., Satterthwaite, T., & Shinohara, R. T. (2016). voxel: Mass-Univariate Voxelwise Analysis of Medical Imaging Data. Available on [CRAN](https://cran.r-project.org/web/packages/voxel/index.html).
 
 <br>
 
+### PREPRINTS & MANUSCRIPTS UNDER REVIEW
+***
+
+* __Garcia de la Garza, A.__, Sauerbrei, B., Hantman, A., & Goldsmith, J. (2026). Adaptive Smoothing Functional Principal Component Analysis. *Under review at Biometrics.* [arXiv:2310.01760](https://arxiv.org/pdf/2310.01760)
+
+* __Garcia de la Garza, A.__, Sauerbrei, B., Hantman, A., & Goldsmith, J. (2026). Two-Sample Test for Eigendecompositions of Functional Data. [arXiv:2604.00220](https://arxiv.org/abs/2604.00220)
+
+<br>

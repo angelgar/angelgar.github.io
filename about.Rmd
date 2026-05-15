@@ -1,6 +1,6 @@
 ---
 title: "About"
-output: 
+output:
   html_document:
     includes:
        in_header: analytics.html
@@ -12,12 +12,114 @@ output:
 
 ### EDUCATION
 ***
-#### Columbia University   |   Mailman School of Public Health  |   New York, NY   |  September 2022
+#### Columbia University   |   Mailman School of Public Health  |   New York, NY   |   October 2022
 
-* Doctor of Philosophy in Biostatistics
-    
+* Doctor of Philosophy (Ph.D.) in Biostatistics
+
+#### Columbia University   |   Mailman School of Public Health  |   New York, NY   |   November 2020
+
+* Master of Philosophy (M.Phil.) in Biostatistics
+
 #### University of Pennsylvania   |   Philadelphia, PA   |   May 2015
 
-* Bachelor of Arts in Mathematics with a Minor in Statistics
+* Bachelor of Arts in Mathematics, Statistics Minor (*cum laude*)
+
+<br>
+
+### PROFESSIONAL EXPERIENCE
+***
+#### Assistant Professor   |   October 2022 – Present
+
+* Division of Biostatistics, Department of Epidemiology, Albert Einstein College of Medicine, New York, NY
+* Saul R. Korey Department of Neurology, Albert Einstein College of Medicine, New York, NY
+
+#### Research Analyst   |   October 2018 – October 2022
+
+* Department of Biostatistics, Columbia University, New York, NY
+
+#### Data Science Intern   |   May 2021 – August 2021
+
+* Google Inc., San Francisco, CA
+
+#### Research Analyst   |   October 2018 – December 2020
+
+* Mental Health Data Science, Columbia University, New York, NY
+
+#### Research Analyst   |   June 2018 – August 2018
+
+* The Center for Complicated Grief, Columbia University, New York, NY
+
+#### Neuroimaging Data Analyst   |   August 2015 – August 2017
+
+* Neuropsychiatry Program, Penn Medicine, Philadelphia, PA
+
+#### Undergraduate Research Assistant   |   January 2015 – July 2015
+
+* Department of Statistics, The Wharton School of the University of Pennsylvania, Philadelphia, PA
+
+<br>
+
+### GRANT SUPPORT
+***
+#### R03AG095655-01, NIH/NIA   |   09/01/2025 – 08/31/2027
+
+* **Role:** Principal Investigator
+* *Pen-and-Paper and Smartphone Self-Reported Cognitive Concerns to Predict Longitudinal Alzheimer's Biomarkers in a Diverse, Non-Demented Older Adult Population*
+
+#### P01AG003949-40, NIH/NIA (Derby, PI)   |   10/01/2022 – 03/31/2027
+
+* **Role:** Statistician
+* *Einstein Aging Study*
+
+<br>
+
+### AWARDS & HONORS
+***
+
+* Alzheimer's Association International Conference Fellowship, 2026
+* Advanced Research Institute in Aging and Mental Health Mentored Biostatistics Faculty Program Award, 2024
+* Allan Rosenfield Scholarship, Mailman School of Public Health, 2017, 2019
+* ENAR Diversity Workshop Travel Award, 2016, 2017, 2018, 2019
+* Initiative for Maximizing Student Development Fellowship, Mailman School of Public Health, 2017
+* Joint Statistical Meetings Diversity Workshop and Mentoring Program Travel Award, 2016
+* Dean's List, University of Pennsylvania, 2014–2015
+* Cipactli Latino Honor Society Inductee, University of Pennsylvania, 2013
+* State Department Summer Science Camp Scholarship, Institute of the Americas, San Diego, 2010
+* First Place, NASA Climate Change Mexico Competition, 2010
+
+<br>
+
+### TEACHING
+***
+
+* Foundations of Epidemiology and Biostatistics (Spring 2023, 2024, 2025; student evaluation 3.8/4)
+* Introduction to Data Wrangling in R and Tidyverse — Short Course (April 2024, April 2025)
+* Biostatistics Epidemiology Summer Training Program — Data Science Instructor (Summer 2021)
+* Biostatistics Epidemiology Summer Training Program — Teaching Assistant (Summer 2018, 2019)
+* Data Science I — Teaching Assistant (Fall 2018)
+* Data Science II — Teaching Assistant (Spring 2019, 2020, 2021)
+
+<br>
+
+### MENTORSHIP & SERVICE
+***
+
+**Students under supervision:** Evan Rothchild (Medical Student / Clinical Research Training Program)
+
+**Other Mentorship:** Statistics Faculty for the Career Institute in Mental Health of Aging, 2026
+
+**Journal Reviewer:** *Neurobiology of Aging*, *Journal of Alzheimer's Disease*, *Human Brain Mapping*, *Psychology Research and Behavior Management*, *Neuropsychiatric Disease and Treatment*, *American Journal of Psychiatry*, *JAMA Network Open*, *Alzheimer's and Dementia*, *Statistics in Medicine*, *Nature Communications*, *Journal of the Royal Statistical Society Series A*.
+
+**Professional Organizations:** American Statistical Association; Eastern North American Region (ENAR), International Biometric Society; International Society to Advance Alzheimer's Research and Treatment (ISTAART).
+
+<br>
+
+### LEADERSHIP
+***
+
+* Lead Organizer, Columbia Biostatistics Computing Club (2018–2021)
+* Co-Founder, Association of Queer International Students, University of Pennsylvania (2015)
+* President, Assembly of International Students, University of Pennsylvania (2014)
+* President, Mex@Penn Mexican Student Association, University of Pennsylvania (2013)
 
 <br>

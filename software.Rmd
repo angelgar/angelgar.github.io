@@ -16,9 +16,9 @@ This is a link to github for additional software: http://github.com/angelgar/
 ***
 #### VOXEL
 
-I developed an R package for the mass-univariate voxelwise analysis of imaging NIfTI data with Ted Satterthwaite and Taki Shinohara.
+I developed an R package for the mass-univariate voxelwise analysis of imaging NIfTI data with Simon Vandekar, Ted Satterthwaite, and Taki Shinohara.
 
-Available on [CRAN](https://cran.r-project.org/web/packages/voxel/)
+Available on [CRAN](https://cran.r-project.org/web/packages/voxel/) (35,000+ downloads).
 
 <p style="text-align:center;">
 <img src="images/figure-voxel.pdf" alt="centered image" style="width:150%"/>
