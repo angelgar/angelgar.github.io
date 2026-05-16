@@ -1,5 +1,6 @@
 ---
-output: 
+title: "Software"
+output:
   html_document:
     includes:
        in_header: analytics.html
@@ -11,15 +12,43 @@ output:
 
 ### SOFTWARE
 
-This is a link to github for additional software: http://github.com/angelgar/
+A selection of R packages I have developed. For other code and analysis scripts, see my [GitHub profile](http://github.com/angelgar/).
 
 ***
-#### VOXEL
 
-I developed an R package for the mass-univariate voxelwise analysis of imaging NIfTI data with Simon Vandekar, Ted Satterthwaite, and Taki Shinohara.
+#### afpca — Adaptive Functional Principal Component Analysis
 
-Available on [CRAN](https://cran.r-project.org/web/packages/voxel/) (35,000+ downloads).
+An R package for estimating directions of variation in functional data that exhibit sharp changes in smoothness. `afpca` combines a fast, scalable adaptive scatterplot smoother with a probabilistic FPCA framework, allowing each functional principal component to be smoothed adaptively. This is particularly useful in settings such as neural recordings, where sharp post-stimulus transitions must be distinguished from smooth baseline behavior — settings where standard global-smoothness assumptions fail.
+
+* Source: [github.com/angelgar/afpca](https://github.com/angelgar/afpca)
+* Documentation & vignettes: [angelgarciadelagarza.com/afpca](http://angelgarciadelagarza.com/afpca/)
+* Co-developed with [Britton Sauerbrei](https://sauerbreilab.org/) and [Jeff Goldsmith](https://jeffgoldsmith.com/).
+* Companion manuscript: [Adaptive Smoothing Functional Principal Component Analysis](https://arxiv.org/abs/2310.01760) (under review at *Biometrics*).
+
+Install the development version from GitHub:
+
+```r
+# install.packages("devtools")
+devtools::install_github("angelgar/afpca")
+```
+
+***
+
+#### voxel — Mass-Univariate Voxelwise Analysis of Imaging Data
+
+An R package for mass-univariate voxelwise analysis of NIfTI medical-imaging data, supporting general linear and generalized additive model workflows at the voxel level.
+
+* CRAN: [voxel](https://cran.r-project.org/web/packages/voxel/) — 35,000+ downloads
+* Co-developed with [Simon Vandekar](https://www.vumc.org/biostatistics/person/simon-vandekar-phd), [Ted Satterthwaite](https://www.satterthwaitelab.com/), and [Taki Shinohara](https://www.pennmedicine.org/cancer/about/clinical-trials/cancer-clinical-research-team/biostatistics/taki-shinohara).
+
+Install from CRAN:
+
+```r
+install.packages("voxel")
+```
 
 <p style="text-align:center;">
-<img src="images/figure-voxel.pdf" alt="centered image" style="width:150%"/>
+<img src="images/figure-voxel.pdf" alt="voxel package example output" style="width:100%; max-width:700px;"/>
 </p>
+
+<br>

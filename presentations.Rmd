@@ -1,0 +1,68 @@
+---
+title: "Presentations"
+output:
+  html_document:
+    includes:
+       in_header: analytics.html
+---
+
+<link rel="stylesheet" href="academicons.css"/>
+
+<br>
+
+### INVITED TALKS & WORKSHOPS
+***
+
+* **Data Integration of Traditional In-Lab Assessments and Smartphone-Based Cognitive Measures to Improve Prediction of Cognitive Decline.** *Invited talk*, Joint Statistical Meetings (JSM), 2025.
+
+* **Measuring What Matters: Evaluating, Selecting and Developing Outcome Measures using Advanced Psychometrics and Clinimetrics.** *Workshop*, Alzheimer's Association International Conference (AAIC), 2025.
+
+* **Measuring What Matters: Evaluating, Selecting and Developing Outcome Measures using Advanced Psychometrics and Clinimetrics.** *Workshop*, Alzheimer's Association International Conference (AAIC), 2024.
+
+<br>
+
+### CONFERENCE PRESENTATIONS
+***
+
+* **Optimizing the Assessment of Self-Perceived Cognitive Functioning for Predicting Mild Cognitive Impairment: Integrating Traditional Methods with Daily Digital Diary Assessments — Results from the Einstein Aging Study (EAS).** Alzheimer's Association International Conference (AAIC), 2024.
+
+* **Two-Sample Test for Eigendecompositions of Functional Data.** Eastern North American Region (ENAR) International Biometric Society Spring Meeting, 2023.
+
+* **Adaptive Smoothing Functional Principal Component Analysis for Neural Firing Rate Data.** Joint Statistical Meetings (JSM), 2021.
+
+* **Adaptive Smoothing Multilevel Functional Principal Component Analysis for Neural Firing Rate Data.** Eastern North American Region (ENAR) International Biometric Society Spring Meeting, 2021.
+
+* **Improved Identification of Brain Activation Patterns by Better Modeling Sharp Changes Over Time.** Columbia University Data Science Day, 2020.
+
+* **A Data Science Approach to Predicting Future Suicide Attempts with a Large National US Survey.** Joint Statistical Meetings (JSM), 2020.
+
+* **A Data Science Approach to Predicting Future Suicide Attempts with a Large National US Survey.** Society of Biological Psychiatry, 75th Annual Scientific Program and Convention, 2020.
+
+* **Dimension Reduction Methods for Multilevel Neural Firing Rate Data.** Eastern North American Region (ENAR) International Biometric Society Spring Meeting, 2020.
+
+* **A Quantitative Comparison of Linear and Non-Linear Models to Detect White Matter Differences in Psychosis Spectrum.** Thomas R. Ten Have Symposium on Statistics in Mental Health, 2016.
+
+* **Climatic Change and its Relationship with Volcanic Dust and Aerosols.** 41º Congreso de Investigación y Desarrollo, ITESM, 2011.
+
+<br>
+
+### CONFERENCE ABSTRACTS & POSTERS
+***
+
+* __Garcia de la Garza, A.__, Wang, C., Derby, C. A., Lipton, R. B., Zetterberg, H., Engeland, C. G., & Katz, M. J. Evaluating the Role of Kidney Function and Comorbidities in Observed Racial/Ethnic Differences in Blood-based Biomarkers of Neurodegeneration: Results from the Einstein Aging Study. *AAIC*, 2024.
+
+* __Garcia de la Garza, A.__, Mogle, J. A., Wang, C., Katz, M. J., Derby, C. A., Cameron, J., Lipton, R. B., Sliwinski, M. J., & Rabin, L. Optimizing the Assessment of Self-Perceived Cognitive Functioning for Predicting Mild Cognitive Impairment: Integrating Traditional Methods with Daily Digital Diary Assessments — Results from the Einstein Aging Study (EAS). *AAIC*, 2024.
+
+* Nester, C. O., __Garcia de la Garza, A.__, Mogle, J. A., Wang, C., Katz, M. J., Ayers, E., Lipton, R. B., Verghese, J., & Rabin, L. A. Smartphone Assessment of Subjective Cognitive Concerns in Motoric Cognitive Risk Syndrome. *International Neuropsychological Society (INS)*, 2024.
+
+* Katz, M. J., __Garcia de la Garza, A.__, Roque, N. A., Derby, C. A., Sliwinski, M. J., Lipton, R. B., & Wang, C. Feasibility, Reliability and Predictive Validity of Digital Cognitive Assessments in a Diverse Cohort of Community-Residing Older Adults. *AAIC*, 2023.
+
+* Wang, C., Gao, Q., Hall, C. B., Cerino, E. S., Sliwinski, M. J., Lipton, R. B., Katz, M. J., Derby, C. A., & __Garcia de la Garza, A.__ Detection of Mild Cognitive Impairment Using Digital Assessments of Cognition. *AAIC*, 2023.
+
+* Rabin, L., Mogle, J., Wang, C., Nester, C. O., Derby, C. A., __Garcia de la Garza, A.__, Lipton, R. B., & Katz, M. J. Cognitive Lapses Reported by Daily Digital Diary, and Not by Recall-Based Questionnaires, Predict Future MCI in a Demographically Diverse Cohort of Community-Dwelling Older Adults. *AAIC*, 2023.
+
+* Lipton, R. B., __Garcia de la Garza, A.__, Wang, C., Derby, C. A., Katz, M. J., Oravecz, Z., Hakun, J. G., Sliwinski, M. J., & Ezzati, A. The Association of Blood-Based Biomarkers and Cognitive Change as Measured by Ecologically Sensitive Digital Biomarkers. *AAIC*, 2023.
+
+* __Garcia de la Garza, A.__, Sauerbrei, B., & Goldsmith, A. J. Dimension Reduction Methods for Multilevel Firing Rate Data. *CMStatistics*, 2019.
+
+<br>

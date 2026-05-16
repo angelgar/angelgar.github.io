@@ -1,4 +1,5 @@
 ---
+title: "Publications & Presentations"
 output:
   html_document:
     includes:
@@ -9,63 +10,116 @@ output:
 
 <br>
 
-### PUBLICATIONS
-
 For a complete and up-to-date list, see my [Google Scholar profile](https://scholar.google.com/citations?user=-ZQ8jlwAAAAJ&hl=en).
+
+##  {.tabset .tabset-fade}
+
+### Publications
 
 ***
 
 #### 2026
 
-* __Garcia de la Garza, A.__, Wang, C., Derby, C. A., Gao, Q., Zetterberg, H., Engeland, C. G., Lipton, R. B., & Katz, M. J. (2026). Generalizability of Blood-Based Biomarkers of Alzheimer's Disease and Related Dementias (ADRD) in a Multicultural Cohort: The Effect of Adjustment for Kidney Function. *Journal of Alzheimer's Disease*.
+* __Garcia de la Garza, A.__, Wang, C., Derby, C. A., Gao, Q., Zetterberg, H., Engeland, C. G., Lipton, R. B., & Katz, M. J. (2026). [Generalizability of Blood-Based Biomarkers of Alzheimer's Disease and Related Dementias (ADRD) in a Multicultural Cohort: The Effect of Adjustment for Kidney Function](https://www.j-alz.com/). *Journal of Alzheimer's Disease*.
 
 #### 2025
 
-* __Garcia de la Garza, A.__, Nester, C., Wang, C., Mogle, J., Roque, N., Katz, M., Derby, C. A., Lipton, R. B., & Rabin, L. (2025). Enhanced associations between subjective cognitive concerns and blood-based AD biomarkers using a novel EMA approach. *Alzheimer's Research and Therapy*.
+* __Garcia de la Garza, A.__, Nester, C., Wang, C., Mogle, J., Roque, N., Katz, M., Derby, C. A., Lipton, R. B., & Rabin, L. (2025). [Enhanced associations between subjective cognitive concerns and blood-based AD biomarkers using a novel EMA approach](https://doi.org/10.1186/s13195-025-01720-y). *Alzheimer's Research and Therapy*.
 
-* Nester, C. O., __Garcia de la Garza, A.__, Mogle, J. A., Wang, C., Katz, M. J., Ayers, E., Lipton, R. B., Verghese, J., & Rabin, L. A. (2025). Toward Remote Evaluation of Motoric Cognitive Risk Syndrome (MCR): A Pilot Study of Daily Diary Smartphone Assessment of Subjective Cognitive Concerns in MCR. *Health Science Reports*.
+* Nester, C. O., __Garcia de la Garza, A.__, Mogle, J. A., Wang, C., Katz, M. J., Ayers, E., Lipton, R. B., Verghese, J., & Rabin, L. A. (2025). [Toward Remote Evaluation of Motoric Cognitive Risk Syndrome (MCR): A Pilot Study of Daily Diary Smartphone Assessment of Subjective Cognitive Concerns in MCR](https://doi.org/10.1002/hsr2.70744). *Health Science Reports*.
 
 #### 2022
 
-* Goldsmith, J., Kitago, T., __Garcia de la Garza, A.__, Kundert, R., Luft, A., Stinear, C. M., Byblow, W. D., Kwakkel, G., & Krakauer, J. W. (2022). The proportional recovery rule redux: Arguments for its biological and predictive relevance. *eLife*.
+* Goldsmith, J., Kitago, T., __Garcia de la Garza, A.__, Kundert, R., Luft, A., Stinear, C. M., Byblow, W. D., Kwakkel, G., & Krakauer, J. W. (2022). [The proportional recovery rule redux: Arguments for its biological and predictive relevance](https://doi.org/10.7554/eLife.80458). *eLife*.
 
 #### 2021
 
-* __Garcia de la Garza, A.__, Blanco, C., Olfson, M., & Wall, M. M. (2021). Identification of suicide attempt risk factors in a national US survey using machine learning. *JAMA Psychiatry*, 78(4), 398–406. [Covered by Medscape, MDedge, and Healio.]
+* __Garcia de la Garza, A.__, Blanco, C., Olfson, M., & Wall, M. M. (2021). [Identification of suicide attempt risk factors in a national US survey using machine learning](https://doi.org/10.1001/jamapsychiatry.2020.4165). *JAMA Psychiatry*, 78(4), 398–406. [Covered by Medscape, MDedge, and Healio.]
 
 #### 2020
 
-* Roalf, D. R., __Garcia de la Garza, A.__, Rosen, A., Calkins, M. E., Moore, T. M., Quarmley, M., Ruparel, K., Xia, C. H., Rupert, P. E., & Satterthwaite, T. D. (2020). Alterations in white matter microstructure in individuals at persistent risk for psychosis. *Molecular Psychiatry*, 25(10), 2441–2454.
+* Roalf, D. R., __Garcia de la Garza, A.__, Rosen, A., Calkins, M. E., Moore, T. M., Quarmley, M., Ruparel, K., Xia, C. H., Rupert, P. E., & Satterthwaite, T. D. (2020). [Alterations in white matter microstructure in individuals at persistent risk for psychosis](https://doi.org/10.1038/s41380-019-0360-1). *Molecular Psychiatry*, 25(10), 2441–2454.
 
-* Skritskaya, N. A., Mauro, C., __Garcia de la Garza, A.__, Meichsner, F., Lebowitz, B., Reynolds, C. F., Simon, N. M., Zisook, S., & Shear, M. K. (2020). Changes in typical beliefs in response to complicated grief treatment. *Depression and Anxiety*, 37(1), 81–89.
+* Skritskaya, N. A., Mauro, C., __Garcia de la Garza, A.__, Meichsner, F., Lebowitz, B., Reynolds, C. F., Simon, N. M., Zisook, S., & Shear, M. K. (2020). [Changes in typical beliefs in response to complicated grief treatment](https://doi.org/10.1002/da.22981). *Depression and Anxiety*, 37(1), 81–89.
 
-* Szuhany, K. L., Young, A., Mauro, C., __García de la Garza, A.__, Spandorfer, J., Lubin, R., Skritskaya, N. A., Hoeppner, S. S., Li, M., & Pace-Schott, E. (2020). Impact of sleep on complicated grief severity and outcomes. *Depression and Anxiety*, 37(1), 73–80.
+* Szuhany, K. L., Young, A., Mauro, C., __García de la Garza, A.__, Spandorfer, J., Lubin, R., Skritskaya, N. A., Hoeppner, S. S., Li, M., & Pace-Schott, E. (2020). [Impact of sleep on complicated grief severity and outcomes](https://doi.org/10.1002/da.22929). *Depression and Anxiety*, 37(1), 73–80.
 
 #### 2019
 
-* Nassar, R., Kaczkurkin, A. N., Xia, C. H., Sotiras, A., Pehlivanova, M., Moore, T. M., __Garcia de La Garza, A.__, Roalf, D. R., Rosen, A. F., & Lorch, S. A. (2019). Gestational age is dimensionally associated with structural brain network abnormalities across development. *Cerebral Cortex*, 29(5), 2102–2114.
+* Nassar, R., Kaczkurkin, A. N., Xia, C. H., Sotiras, A., Pehlivanova, M., Moore, T. M., __Garcia de La Garza, A.__, Roalf, D. R., Rosen, A. F., & Lorch, S. A. (2019). [Gestational age is dimensionally associated with structural brain network abnormalities across development](https://doi.org/10.1093/cercor/bhy091). *Cerebral Cortex*, 29(5), 2102–2114.
 
 #### 2018
 
-* Xia, C. H., Ma, Z., Ciric, R., Gu, S., Betzel, R. F., Kaczkurkin, A. N., Calkins, M. E., Cook, P. A., __Garcia de la Garza, A.__, & Vandekar, S. N. (2018). Linked dimensions of psychopathology and connectivity in functional brain networks. *Nature Communications*, 9(1), 1–14.
+* Xia, C. H., Ma, Z., Ciric, R., Gu, S., Betzel, R. F., Kaczkurkin, A. N., Calkins, M. E., Cook, P. A., __Garcia de la Garza, A.__, & Vandekar, S. N. (2018). [Linked dimensions of psychopathology and connectivity in functional brain networks](https://doi.org/10.1038/s41467-018-05317-y). *Nature Communications*, 9(1), 1–14.
 
-* Kaczkurkin, A. N., Moore, T. M., Calkins, M. E., Ciric, R., Detre, J. A., Elliott, M. A., Foa, E. B., __Garcia de la Garza, A.__, Roalf, D. R., & Rosen, A. (2018). Common and dissociable regional cerebral blood flow differences associate with dimensions of psychopathology across categorical diagnoses. *Molecular Psychiatry*, 23(10), 1981–1989.
+* Kaczkurkin, A. N., Moore, T. M., Calkins, M. E., Ciric, R., Detre, J. A., Elliott, M. A., Foa, E. B., __Garcia de la Garza, A.__, Roalf, D. R., & Rosen, A. (2018). [Common and dissociable regional cerebral blood flow differences associate with dimensions of psychopathology across categorical diagnoses](https://doi.org/10.1038/mp.2017.174). *Molecular Psychiatry*, 23(10), 1981–1989.
 
-* Pehlivanova, M., Wolf, D. H., Sotiras, A., Kaczkurkin, A. N., Moore, T. M., Ciric, R., Cook, P. A., __Garcia de La Garza, A.__, Rosen, A. F., & Ruparel, K. (2018). Diminished cortical thickness is associated with impulsive choice in adolescence. *Journal of Neuroscience*, 38(10), 2471–2481.
+* Pehlivanova, M., Wolf, D. H., Sotiras, A., Kaczkurkin, A. N., Moore, T. M., Ciric, R., Cook, P. A., __Garcia de La Garza, A.__, Rosen, A. F., & Ruparel, K. (2018). [Diminished cortical thickness is associated with impulsive choice in adolescence](https://doi.org/10.1523/JNEUROSCI.2200-17.2018). *Journal of Neuroscience*, 38(10), 2471–2481.
 
-* Rosen, A. F. G., Roalf, D. R., Ruparel, K., Blake, J., Seelaus, K., Villa, L. P., Ciric, R., Cook, P. A., Davatzikos, C., Elliott, M. A., __Garcia de La Garza, A.__, Gennatas, E. D., Quarmley, M., Schmitt, J. E., Shinohara, R. T., Tisdall, M. D., Craddock, R. C., Gur, R. E., Gur, R. C., & Satterthwaite, T. D. (2018). Quantitative assessment of structural image quality. *NeuroImage*, 169, 407–418.
+* Rosen, A. F. G., Roalf, D. R., Ruparel, K., Blake, J., Seelaus, K., Villa, L. P., Ciric, R., Cook, P. A., Davatzikos, C., Elliott, M. A., __Garcia de La Garza, A.__, Gennatas, E. D., Quarmley, M., Schmitt, J. E., Shinohara, R. T., Tisdall, M. D., Craddock, R. C., Gur, R. E., Gur, R. C., & Satterthwaite, T. D. (2018). [Quantitative assessment of structural image quality](https://doi.org/10.1016/j.neuroimage.2017.12.059). *NeuroImage*, 169, 407–418.
 
 #### 2016
 
-* __Garcia de la Garza, A.__, Vandekar, S., Roalf, D., Ruparel, K., Gur, R., Gur, R., Satterthwaite, T., & Shinohara, R. T. (2016). voxel: Mass-Univariate Voxelwise Analysis of Medical Imaging Data. Available on [CRAN](https://cran.r-project.org/web/packages/voxel/index.html).
+* __Garcia de la Garza, A.__, Vandekar, S., Roalf, D., Ruparel, K., Gur, R., Gur, R., Satterthwaite, T., & Shinohara, R. T. (2016). [voxel: Mass-Univariate Voxelwise Analysis of Medical Imaging Data](https://cran.r-project.org/web/packages/voxel/index.html). Available on CRAN.
 
-<br>
+#### Preprints & Under Review
 
-### PREPRINTS & MANUSCRIPTS UNDER REVIEW
+* __Garcia de la Garza, A.__, Sauerbrei, B., Hantman, A., & Goldsmith, J. (2026). [Adaptive Smoothing Functional Principal Component Analysis](https://arxiv.org/abs/2310.01760). *Under review at Biometrics.*
+
+* __Garcia de la Garza, A.__, Sauerbrei, B., Hantman, A., & Goldsmith, J. (2026). [Two-Sample Test for Eigendecompositions of Functional Data](https://arxiv.org/abs/2604.00220).
+
+### Presentations
+
 ***
 
-* __Garcia de la Garza, A.__, Sauerbrei, B., Hantman, A., & Goldsmith, J. (2026). Adaptive Smoothing Functional Principal Component Analysis. *Under review at Biometrics.* [arXiv:2310.01760](https://arxiv.org/pdf/2310.01760)
+#### Invited Talks & Workshops
 
-* __Garcia de la Garza, A.__, Sauerbrei, B., Hantman, A., & Goldsmith, J. (2026). Two-Sample Test for Eigendecompositions of Functional Data. [arXiv:2604.00220](https://arxiv.org/abs/2604.00220)
+* **Data Integration of Traditional In-Lab Assessments and Smartphone-Based Cognitive Measures to Improve Prediction of Cognitive Decline.** *Invited talk*, Joint Statistical Meetings (JSM), 2025.
+
+* **Measuring What Matters: Evaluating, Selecting and Developing Outcome Measures using Advanced Psychometrics and Clinimetrics.** *Workshop*, Alzheimer's Association International Conference (AAIC), 2025.
+
+* **Measuring What Matters: Evaluating, Selecting and Developing Outcome Measures using Advanced Psychometrics and Clinimetrics.** *Workshop*, Alzheimer's Association International Conference (AAIC), 2024.
+
+#### Conference Presentations
+
+* **Optimizing the Assessment of Self-Perceived Cognitive Functioning for Predicting Mild Cognitive Impairment: Integrating Traditional Methods with Daily Digital Diary Assessments — Results from the Einstein Aging Study (EAS).** Alzheimer's Association International Conference (AAIC), 2024.
+
+* **Two-Sample Test for Eigendecompositions of Functional Data.** Eastern North American Region (ENAR) International Biometric Society Spring Meeting, 2023.
+
+* **Adaptive Smoothing Functional Principal Component Analysis for Neural Firing Rate Data.** Joint Statistical Meetings (JSM), 2021.
+
+* **Adaptive Smoothing Multilevel Functional Principal Component Analysis for Neural Firing Rate Data.** Eastern North American Region (ENAR) International Biometric Society Spring Meeting, 2021.
+
+* **Improved Identification of Brain Activation Patterns by Better Modeling Sharp Changes Over Time.** Columbia University Data Science Day, 2020.
+
+* **A Data Science Approach to Predicting Future Suicide Attempts with a Large National US Survey.** Joint Statistical Meetings (JSM), 2020.
+
+* **A Data Science Approach to Predicting Future Suicide Attempts with a Large National US Survey.** Society of Biological Psychiatry, 75th Annual Scientific Program and Convention, 2020.
+
+* **Dimension Reduction Methods for Multilevel Neural Firing Rate Data.** Eastern North American Region (ENAR) International Biometric Society Spring Meeting, 2020.
+
+* **A Quantitative Comparison of Linear and Non-Linear Models to Detect White Matter Differences in Psychosis Spectrum.** Thomas R. Ten Have Symposium on Statistics in Mental Health, 2016.
+
+* **Climatic Change and its Relationship with Volcanic Dust and Aerosols.** 41º Congreso de Investigación y Desarrollo, ITESM, 2011.
+
+#### Conference Abstracts & Posters
+
+* __Garcia de la Garza, A.__, Wang, C., Derby, C. A., Lipton, R. B., Zetterberg, H., Engeland, C. G., & Katz, M. J. Evaluating the Role of Kidney Function and Comorbidities in Observed Racial/Ethnic Differences in Blood-based Biomarkers of Neurodegeneration: Results from the Einstein Aging Study. *AAIC*, 2024.
+
+* __Garcia de la Garza, A.__, Mogle, J. A., Wang, C., Katz, M. J., Derby, C. A., Cameron, J., Lipton, R. B., Sliwinski, M. J., & Rabin, L. Optimizing the Assessment of Self-Perceived Cognitive Functioning for Predicting Mild Cognitive Impairment: Integrating Traditional Methods with Daily Digital Diary Assessments — Results from the Einstein Aging Study (EAS). *AAIC*, 2024.
+
+* Nester, C. O., __Garcia de la Garza, A.__, Mogle, J. A., Wang, C., Katz, M. J., Ayers, E., Lipton, R. B., Verghese, J., & Rabin, L. A. Smartphone Assessment of Subjective Cognitive Concerns in Motoric Cognitive Risk Syndrome. *International Neuropsychological Society (INS)*, 2024.
+
+* Katz, M. J., __Garcia de la Garza, A.__, Roque, N. A., Derby, C. A., Sliwinski, M. J., Lipton, R. B., & Wang, C. Feasibility, Reliability and Predictive Validity of Digital Cognitive Assessments in a Diverse Cohort of Community-Residing Older Adults. *AAIC*, 2023.
+
+* Wang, C., Gao, Q., Hall, C. B., Cerino, E. S., Sliwinski, M. J., Lipton, R. B., Katz, M. J., Derby, C. A., & __Garcia de la Garza, A.__ Detection of Mild Cognitive Impairment Using Digital Assessments of Cognition. *AAIC*, 2023.
+
+* Rabin, L., Mogle, J., Wang, C., Nester, C. O., Derby, C. A., __Garcia de la Garza, A.__, Lipton, R. B., & Katz, M. J. Cognitive Lapses Reported by Daily Digital Diary, and Not by Recall-Based Questionnaires, Predict Future MCI in a Demographically Diverse Cohort of Community-Dwelling Older Adults. *AAIC*, 2023.
+
+* Lipton, R. B., __Garcia de la Garza, A.__, Wang, C., Derby, C. A., Katz, M. J., Oravecz, Z., Hakun, J. G., Sliwinski, M. J., & Ezzati, A. The Association of Blood-Based Biomarkers and Cognitive Change as Measured by Ecologically Sensitive Digital Biomarkers. *AAIC*, 2023.
+
+* __Garcia de la Garza, A.__, Sauerbrei, B., & Goldsmith, A. J. Dimension Reduction Methods for Multilevel Firing Rate Data. *CMStatistics*, 2019.
+
+##  {.unlisted .unnumbered}
 
 <br>

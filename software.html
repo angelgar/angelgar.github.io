@@ -11,7 +11,7 @@
 
 
 
-<title>software.knit</title>
+<title>Software</title>
 
 <script src="site_libs/header-attrs-2.31/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
@@ -255,7 +255,7 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="publications.html">Publications</a>
+  <a href="publications.html">Publications &amp; Presentations</a>
 </li>
 <li>
   <a href="software.html">Software</a>
@@ -289,6 +289,7 @@ $(document).ready(function () {
 
 
 
+<h1 class="title toc-ignore">Software</h1>
 
 </div>
 
@@ -297,21 +298,62 @@ $(document).ready(function () {
 <p><br></p>
 <div id="software" class="section level3">
 <h3>SOFTWARE</h3>
-<p>This is a link to github for additional software: <a
-href="http://github.com/angelgar/"
-class="uri">http://github.com/angelgar/</a></p>
+<p>A selection of R packages I have developed. For other code and
+analysis scripts, see my <a href="http://github.com/angelgar/">GitHub
+profile</a>.</p>
 <hr />
-<div id="voxel" class="section level4">
-<h4>VOXEL</h4>
-<p>I developed an R package for the mass-univariate voxelwise analysis
-of imaging NIfTI data with Simon Vandekar, Ted Satterthwaite, and Taki
-Shinohara.</p>
-<p>Available on <a
-href="https://cran.r-project.org/web/packages/voxel/">CRAN</a> (35,000+
-downloads).</p>
+<div id="afpca-adaptive-functional-principal-component-analysis"
+class="section level4">
+<h4>afpca — Adaptive Functional Principal Component Analysis</h4>
+<p>An R package for estimating directions of variation in functional
+data that exhibit sharp changes in smoothness. <code>afpca</code>
+combines a fast, scalable adaptive scatterplot smoother with a
+probabilistic FPCA framework, allowing each functional principal
+component to be smoothed adaptively. This is particularly useful in
+settings such as neural recordings, where sharp post-stimulus
+transitions must be distinguished from smooth baseline behavior —
+settings where standard global-smoothness assumptions fail.</p>
+<ul>
+<li>Source: <a
+href="https://github.com/angelgar/afpca">github.com/angelgar/afpca</a></li>
+<li>Documentation &amp; vignettes: <a
+href="http://angelgarciadelagarza.com/afpca/">angelgarciadelagarza.com/afpca</a></li>
+<li>Co-developed with <a href="https://sauerbreilab.org/">Britton
+Sauerbrei</a> and <a href="https://jeffgoldsmith.com/">Jeff
+Goldsmith</a>.</li>
+<li>Companion manuscript: <a
+href="https://arxiv.org/abs/2310.01760">Adaptive Smoothing Functional
+Principal Component Analysis</a> (under review at
+<em>Biometrics</em>).</li>
+</ul>
+<p>Install the development version from GitHub:</p>
+<pre class="r"><code># install.packages(&quot;devtools&quot;)
+devtools::install_github(&quot;angelgar/afpca&quot;)</code></pre>
+<hr />
+</div>
+<div id="voxel-mass-univariate-voxelwise-analysis-of-imaging-data"
+class="section level4">
+<h4>voxel — Mass-Univariate Voxelwise Analysis of Imaging Data</h4>
+<p>An R package for mass-univariate voxelwise analysis of NIfTI
+medical-imaging data, supporting general linear and generalized additive
+model workflows at the voxel level.</p>
+<ul>
+<li>CRAN: <a
+href="https://cran.r-project.org/web/packages/voxel/">voxel</a> —
+35,000+ downloads</li>
+<li>Co-developed with <a
+href="https://www.vumc.org/biostatistics/person/simon-vandekar-phd">Simon
+Vandekar</a>, <a href="https://www.satterthwaitelab.com/">Ted
+Satterthwaite</a>, and <a
+href="https://www.pennmedicine.org/cancer/about/clinical-trials/cancer-clinical-research-team/biostatistics/taki-shinohara">Taki
+Shinohara</a>.</li>
+</ul>
+<p>Install from CRAN:</p>
+<pre class="r"><code>install.packages(&quot;voxel&quot;)</code></pre>
 <p style="text-align:center;">
-<img src="images/figure-voxel.pdf" alt="centered image" style="width:150%"/>
+<img src="images/figure-voxel.pdf" alt="voxel package example output" style="width:100%; max-width:700px;"/>
 </p>
+<p><br></p>
 </div>
 </div>
 
