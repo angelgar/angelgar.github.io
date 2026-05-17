@@ -329,6 +329,25 @@ Principal Component Analysis</a> (under review at
 <p>Install the development version from GitHub:</p>
 <pre class="r"><code># install.packages(&quot;devtools&quot;)
 devtools::install_github(&quot;angelgar/afpca&quot;)</code></pre>
+<p><strong>A quick visual tour.</strong> Below are example outputs from
+the package vignette. First, 20 simulated curves drawn from a mean
+function and two functional principal components with locally varying
+smoothness:</p>
+<p style="text-align:center;">
+<img src="https://github.com/angelgar/afpca/raw/master/man/figures/README-simulated_data_plot-1.png" alt="Simulated functional data with locally varying smoothness" style="width:100%; max-width:700px;"/>
+</p>
+<p>The estimated mean function and the first two adaptively-smoothed
+functional principal components recovered by <code>fpca.adapt()</code> —
+note how the estimator preserves sharp post-onset transitions rather
+than over-smoothing them:</p>
+<p style="text-align:center;">
+<img src="https://github.com/angelgar/afpca/raw/master/man/figures/README-estimated_fpc_plot-1.png" alt="Estimated mean function and adaptively-smoothed functional principal components" style="width:100%; max-width:700px;"/>
+</p>
+<p>And two examples of observed curves alongside their reconstructions
+from the estimated components:</p>
+<p style="text-align:center;">
+<img src="https://github.com/angelgar/afpca/raw/master/man/figures/README-reconstructed_plots-1.png" alt="Observed curves with adaptive FPCA reconstructions" style="width:100%; max-width:700px;"/>
+</p>
 <hr />
 </div>
 <div id="voxel-mass-univariate-voxelwise-analysis-of-imaging-data"
